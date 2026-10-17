@@ -1,0 +1,4 @@
+fecha,id_planta,codigo_clase,nombre_clase,confianza,x1,y1,x2,y2
+2026-10-16T23:26:17.225118,JT-001,green,Verde,0.9500,10,20,50,60
+2026-10-16T23:26:17.225151,JT-001,turning,Cambiante,0.8800,70,30,110,80
+2026-10-16T23:26:17.225155,JT-001,red,Rojo,0.9200,120,40,160,90
