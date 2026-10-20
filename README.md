@@ -146,7 +146,6 @@ El objetivo es desarrollar herramientas que permitan observar mejor los cultivos
   </a>
 </p>
 
-Las insignias muestran información pública del repositorio, como estrellas, forks e incidencias. Estos datos reflejan la actividad de GitHub y no representan métricas de precisión ni resultados experimentales de los modelos.
 
 ## Filosofía
 
